@@ -1,6 +1,6 @@
-# Festive Moodle — Issue Tracker
+# Festive Effects — Issue Tracker
 
-This repository is the official public issue tracker for the Festive Moodle plugin
+This repository is the official public issue tracker for the Festive Effects plugin
 (`local_festivemoodle`), sold through Moodle Marketplace.
 
 The source code is maintained in a private repository.
